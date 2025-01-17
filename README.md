@@ -15,7 +15,7 @@ The ligand-protein complex is from data provided by Merck (https://github.com/MC
   ![Solvated Complex image from NGLview](solvated_complex.png)
 - Using openMM to perform energy minimization, equilibration, and production runs
 - Analyses using MDAnalysis packages
-  ![Ligand image from NGLview](ligand.png)
+  ![bfactor image from NGLview](complex_eqb_bfactor.png)
 
 ## Project to-do list
 - Calculation of potential scoring functions for protein-ligand complex interactions
