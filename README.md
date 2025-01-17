@@ -11,7 +11,7 @@ The ligand-protein complex is from data provided by Merck (https://github.com/MC
 - Preparation and visualization of the receptor (5ehr_prepared.pdb)
   ![Receptor image from NGLview](receptor.png)
 - Insertion of ligand into complex and solvating to generate an initial configuration
-  ![Complex image from NGLview](complex.png)
+  ![Complex image from NGLview](unsolvated complex.png)
   ![Solvated Complex image from NGLview](solvated_complex.png)
 - Using openMM to perform energy minimization, equilibration, and production runs
 - Analyses using MDAnalysis packages
