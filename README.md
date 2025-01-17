@@ -7,6 +7,7 @@ The ligand-protein complex is from data provided by Merck (https://github.com/MC
 
 ## Project Outline
 - Preparation and visualization of the SHP099 ligand (from SHP099_1.sdf)
+  ![Ligand image from NGLview](ligand.png)
 - Preparation and visualization of the receptor (5ehr_prepared.pdb)
 - Insertion of ligand into complex and solvating to generate an initial configuration
 - Using openMM to perform energy minimization, equilibration, and production runs
